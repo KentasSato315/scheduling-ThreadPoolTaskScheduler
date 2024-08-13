@@ -4,8 +4,8 @@ import lombok.RequiredArgsConstructor;
 import org.springframework.boot.ApplicationArguments;
 import org.springframework.boot.ApplicationRunner;
 import org.springframework.context.annotation.Configuration;
-import scheduling.threadPoolTaskScheduler.schedulingthreadpooltaskscheduler.Task.SampleTask;
-import scheduling.threadPoolTaskScheduler.schedulingthreadpooltaskscheduler.Task.SampleTaskManager;
+import scheduling.threadPoolTaskScheduler.schedulingthreadpooltaskscheduler.task.SampleTask;
+import scheduling.threadPoolTaskScheduler.schedulingthreadpooltaskscheduler.task.SampleTaskManager;
 import scheduling.threadPoolTaskScheduler.schedulingthreadpooltaskscheduler.config.TaskSchedulerConfiguration;
 
 @Configuration

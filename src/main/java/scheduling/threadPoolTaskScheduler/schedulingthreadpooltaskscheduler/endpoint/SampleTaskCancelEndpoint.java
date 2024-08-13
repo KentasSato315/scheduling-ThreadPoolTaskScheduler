@@ -5,7 +5,7 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.actuate.endpoint.annotation.Endpoint;
 import org.springframework.boot.actuate.endpoint.annotation.WriteOperation;
 import org.springframework.stereotype.Component;
-import scheduling.threadPoolTaskScheduler.schedulingthreadpooltaskscheduler.Task.SampleTaskManager;
+import scheduling.threadPoolTaskScheduler.schedulingthreadpooltaskscheduler.task.SampleTaskManager;
 
 @Component
 @Endpoint(id="sampleTaskCancel")

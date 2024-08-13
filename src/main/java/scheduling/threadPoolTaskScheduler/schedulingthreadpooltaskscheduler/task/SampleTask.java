@@ -1,4 +1,4 @@
-package scheduling.threadPoolTaskScheduler.schedulingthreadpooltaskscheduler.Task;
+package scheduling.threadPoolTaskScheduler.schedulingthreadpooltaskscheduler.task;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

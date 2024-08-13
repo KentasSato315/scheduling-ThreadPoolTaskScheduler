@@ -1,4 +1,4 @@
-package scheduling.threadPoolTaskScheduler.schedulingthreadpooltaskscheduler.Task;
+package scheduling.threadPoolTaskScheduler.schedulingthreadpooltaskscheduler.task;
 
 import java.util.concurrent.RejectedExecutionException;
 import java.util.concurrent.ScheduledFuture;
